@@ -10,6 +10,7 @@ int main(){
 								}
 					cout<<x<<endl;
 						cout<<n;
+						cout<<"hello world";
 							return 0;
 								
 
